@@ -1,0 +1,22 @@
+#SOLID 5 principios da orientação objetos e design de códigos
+
+º S = Single-Resposibility principle (princípio da responsabilidade única)
+    - Classe, componente, entidade e até função deve ter uma unica responsabilidade isolada!
+    - Entidades independentes e isoladas, você consegue reaproveitar o código, reaproveitar,
+    construção de testes automatizados e gerar menos bugs.
+
+º O = Open-Closed principle (Princípio aberto fechado)
+    - Classes, entidades ou funções devem estar abertas para extensão, mas fechada para modificação.
+
+º L = Liskov-Substitution principle (Princípio de substituição de Liskov)
+    - Classe e criamos subclasse utilizando herança, objeto ou instancia resultante dessa subclasse,
+    tem conseguir substituir o objeto da classe principal, sem quebrar o programa.
+    - Não crie subclasses que crie comportamente não esperado no sentido de um método fundamental.
+
+º I = Interface Segregation principle (Princípio da segregação de interface)
+    - Classes não devem ser forçados a depender de métodos de interfaces que eles não usam.
+
+º D = Dependecy Inversion principle (Princípio da inversão de dependência)
+    - Um módulo não deve depender de detalhes de implementação  de outro módulo diretamente. Deve existir
+    uma abstração ali no meio(interface).
+    ex. edward mãos de tesoura (ferramenta fundida com usuário)
