@@ -19,4 +19,8 @@
 º D = Dependecy Inversion principle (Princípio da inversão de dependência)
     - Um módulo não deve depender de detalhes de implementação  de outro módulo diretamente. Deve existir
     uma abstração ali no meio(interface).
-    ex. edward mãos de tesoura (ferramenta fundida com usuário)
+    ex. edward mãos de tesoura (ferramenta fundida com usuário )
+
+
+O S.O.L.I.D é um acrônimo que representa cinco princípios da programação orientada a objetos e design de código
+

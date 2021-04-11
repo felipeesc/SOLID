@@ -26,7 +26,6 @@ public class SingleReponsibilityPrinciple {
 // TODO     responsabilidade unica não se limita só as classes, tudo que é responsavel
 // TODO     por executar uma ação deve ser responsavel ao que se porpoe a fazer;
 
-
     class Pedido {
         // TODO    classe pedido é responsavel por gerir os itens e calcular total
         void calcularSomaTotal(){}
@@ -48,5 +47,4 @@ public class SingleReponsibilityPrinciple {
         void solicitarImpressao(){}
         void mostrarOrdem(){}
     }
-
 }
